@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+
+a {
+  text-decoration: none;
+  color: black;
+
+  background: white;
+  padding: 6px;
+
+  box-shadow: 1px 1px 1px black;
+  border-radius: 10px;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: lightgray;
+}
